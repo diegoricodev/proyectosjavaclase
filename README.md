@@ -1,1 +1,1 @@
-# proyectosjavaclase
+Proyectos de java de clase
